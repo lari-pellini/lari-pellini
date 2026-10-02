@@ -49,11 +49,45 @@ Acredito que o melhor produto digital nasce no ponto de convergência entre **es
 
 Adoro trocar ideias sobre tecnologia, transição de carreira, design e produtos digitais. Vamos conversar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Larissa_Pellini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissapellini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Larissa_Pellini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-p-9aa135114/)
 [![Email](https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
 
 ---
 
 <div align="center">
   <sub>"A tecnologia alcança sua melhor forma quando encontra a sensibilidade humana e a criatividade."</sub>
+</div>
+
+<!-- ==================== ESTATÍSTICAS DO GITHUB ==================== -->
+<div align="center">
+  <h2>📊 Estatísticas no GitHub</h2>
+  <br />
+
+  <!-- GitHub Stats & Top Languages lado a lado -->
+  <p align="center">
+    <a href="https://github.com/larissapellini">
+      <img 
+        height="180em" 
+        src="https://github-readme-stats.vercel.app/api?username=larissapellini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" 
+        alt="Estatísticas do GitHub de Larissa Pellini" 
+      />
+    </a>
+    <a href="https://github.com/larissapellini">
+      <img 
+        height="180em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapellini&layout=compact&theme=radical&hide_border=false" 
+        alt="Linguagens mais utilizadas por Larissa Pellini" 
+      />
+    </a>
+  </p>
+
+  <!-- Streak Stats (sequência de commits ativos) -->
+  <p align="center">
+    <a href="https://github.com/larissapellini">
+      <img 
+        src="https://streak-stats.demolab.com?user=larissapellini&theme=radical&hide_border=false" 
+        alt="Sequência de Commits de Larissa Pellini" 
+      />
+    </a>
+  </p>
 </div>

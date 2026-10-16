@@ -49,6 +49,23 @@ Essa atuação reúne diferentes perspectivas de um mesmo desafio: compreender a
 
 ---
 
+### 🧪 Laboratório: SEO, Marketing & UX
+
+Experimentos de código aberto onde testo ideias do dia a dia de Marketing e UX — cada um em uma linguagem diferente, com testes, documentação em português e inglês e issues abertas para quem quiser contribuir.
+
+| Projeto | O que faz | Stack |
+| --- | --- | --- |
+| 🔎 **[seo-meta-auditor](https://github.com/lari-pellini/seo-meta-auditor)** | Audita o SEO on-page de uma página: título, meta description, headings, `alt`, Open Graph, canonical | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| 📈 **[ab-test-significance](https://github.com/lari-pellini/ab-test-significance)** · [demo](https://lari-pellini.github.io/ab-test-significance/) | Diz se um teste A/B é estatisticamente significativo e quantos visitantes ele precisa | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 🔗 **[utm-link-builder](https://github.com/lari-pellini/utm-link-builder)** | Cria, gera em lote (CSV) e valida links com UTM para o GA4 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| ✍️ **[readability-pt](https://github.com/lari-pellini/readability-pt)** | Índice de legibilidade Flesch adaptado para o português brasileiro | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white) |
+| 🧭 **[ux-heuristics-checklist](https://github.com/lari-pellini/ux-heuristics-checklist)** · [demo](https://lari-pellini.github.io/ux-heuristics-checklist/) | Checklist interativo das 10 heurísticas de Nielsen, com severidade e exportação em Markdown | ![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?logo=html5&logoColor=white) |
+| ⚡ **[web-vitals-playground](https://github.com/lari-pellini/web-vitals-playground)** · [demo](https://lari-pellini.github.io/web-vitals-playground/) | Demos "ruim × boa" de LCP, CLS e INP com medição ao vivo das Core Web Vitals | ![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?logo=html5&logoColor=white) |
+
+🤝 Quer contribuir? Procure as issues marcadas com **good first issue** — podem ser escritas em português ou inglês.
+
+---
+
 ### 🛠️ Stacks & ferramentas
 
 #### 💻 Desenvolvimento Frontend

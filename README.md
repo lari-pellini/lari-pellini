@@ -1,8 +1,8 @@
 # Olá, mundo! Sou a Larissa Pellini 😉​
 
-### Especialista em Marketing | Expandindo minha atuação para Desenvolvimento Frontend
+### Head de Marketing no GENNO | Desenvolvimento Frontend | Curadoria de UX
 
-> Unindo estratégia, criatividade e visão de negócios à construção de interfaces intuitivas e experiências digitais que fazem sentido para as pessoas.
+> Conectando estratégia de Marketing, experiência do usuário e desenvolvimento para transformar necessidades reais em produtos digitais.
 
 ![Banner de Larissa Pellini com uma triceratops azul programando](https://raw.githubusercontent.com/lari-pellini/lari-pellini/main/lari-github.png)
 
@@ -10,27 +10,30 @@
 
 ### 💡 Sobre mim
 
-Minha trajetória em **Marketing Estratégico e Comunicação** me ensinou a entender pessoas, transformar ideias em mensagens e acompanhar resultados. Agora, estou ampliando essa visão para o **Desenvolvimento Frontend**, aprendendo a transformar estratégias em experiências na tela.
+Atuo na conexão entre **Marketing, tecnologia e experiência do usuário**, combinando visão estratégica de negócios com a capacidade de construir interfaces e participar das decisões que dão forma a um produto.
 
-Acredito que um bom produto digital combina **estética, funcionalidade e visão de negócios**. Quero construir interfaces acessíveis, responsivas e fáceis de usar, com atenção tanto à experiência do usuário quanto aos objetivos de cada projeto.
+Sou **Head de Marketing no [GENNO](https://genno.app)**, onde minha atuação também envolve **curadoria de UX e desenvolvimento Frontend**. Participo da construção do produto, da comunicação da marca e da evolução das experiências de quem utiliza a plataforma.
+
+Tenho proficiência em **HTML, CSS e JavaScript**, com atuação em interfaces responsivas, manipulação do DOM e integração com APIs. Minha experiência em Marketing amplia esse trabalho com atenção à clareza, à usabilidade e aos objetivos do negócio.
 
 - 📍 Baseada no Brasil.
-- 🌱 Estudando **HTML, CSS, JavaScript, manipulação do DOM e design responsivo**.
-- 🎨 Conectando **Marketing, UI/UX e desenvolvimento**.
-- 🤝 Valorizo colaboração, aprendizado contínuo e decisões orientadas por dados.
-- 🐴 Faço parte da construção do **GENNO**, nosso projeto de tecnologia para o universo equino.
+- 🐴 **Head de Marketing no GENNO**, com participação ativa na construção e evolução do produto.
+- 💻 **Desenvolvimento Frontend:** interfaces responsivas, interativas e alinhadas à identidade da marca.
+- 🎨 **Curadoria de UX:** atenção aos fluxos, ao conteúdo e à consistência da experiência.
+- 📊 **Visão estratégica:** decisões orientadas por dados, necessidades dos usuários e objetivos de negócio.
+- 🤝 Colaboração entre Marketing, design e desenvolvimento para transformar ideias em entregas.
 
 ---
 
 ### 🐴 GENNO — nosso projeto
 
-O **[GENNO](https://genno.app)** é uma plataforma que conecta **medicina veterinária, reprodução equina e gestão de haras**, desenvolvida para apoiar a rotina de veterinários, criadores e proprietários no campo e no escritório.
+O **[GENNO](https://genno.app)** conecta **medicina veterinária, reprodução equina e gestão de haras** em uma plataforma para veterinários, criadores e proprietários.
 
-O projeto reúne recursos para acompanhar animais, atendimentos, históricos clínicos e reprodutivos, agenda, laudos e gestão. O trabalho no campo pode continuar **sem internet**, com sincronização dos dados quando a conexão retorna.
+Como **Head de Marketing**, trabalho no posicionamento e na comunicação da marca. Minha contribuição também se estende à **curadoria de UX e ao desenvolvimento Frontend**, participando das decisões e entregas que tornam o produto mais claro, consistente e útil para quem está no campo e no escritório.
 
-Participar dessa construção aproxima minha experiência em Marketing do meu aprendizado em tecnologia: entender as necessidades de quem usa o produto, comunicar seu valor com clareza e pensar em experiências digitais cada vez mais úteis.
+Essa atuação reúne diferentes perspectivas de um mesmo desafio: compreender as necessidades dos usuários, comunicar o valor do GENNO e transformar essa visão em experiências dentro do produto.
 
-📚 A **[Central de Ajuda GENNO](https://help.genno.app)** reúne tutoriais para usar o app, a versão web e o Portal do proprietário.
+📚 Nossa **[Central de Ajuda](https://help.genno.app)** complementa essa experiência com tutoriais para o app, a versão web e o Portal do proprietário.
 
 #### Explore o projeto
 
@@ -48,7 +51,7 @@ Participar dessa construção aproxima minha experiência em Marketing do meu ap
 
 ### 🛠️ Stacks & ferramentas
 
-#### 💻 Frontend — em aprendizado contínuo
+#### 💻 Desenvolvimento Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -67,13 +70,14 @@ Participar dessa construção aproxima minha experiência em Marketing do meu ap
 
 ---
 
-### 🚀 O que estou construindo e aprendendo
+### 🚀 Minha atuação
 
-- 🐴 **GENNO:** participando da construção de um produto que conecta tecnologia à rotina do universo equino.
-- 🖥️ **Landing pages:** praticando HTML semântico, responsividade, SEO e hierarquia visual.
-- 🧩 **Interfaces e microinterações:** explorando Flexbox, Grid e manipulação do DOM com JavaScript.
-- 📡 **Integração com APIs:** aprendendo a consumir dados e criar interfaces dinâmicas.
-- 🎯 **Experiência do usuário:** conectando conteúdo, design e objetivos de negócio para tornar cada interação mais clara.
+- 🐴 **Construção do GENNO:** participação ativa na evolução do produto, conectando Marketing, UX e desenvolvimento.
+- 🎯 **Liderança de Marketing:** posicionamento de marca, comunicação estratégica e ações orientadas por dados.
+- 🎨 **Curadoria de UX:** avaliação de jornadas, fluxos e interfaces para facilitar o uso da plataforma.
+- 🖥️ **Desenvolvimento Frontend:** construção de páginas e interfaces responsivas com atenção à semântica, à hierarquia visual e à usabilidade.
+- 🧩 **Interatividade:** implementação de comportamentos dinâmicos e integração com APIs em JavaScript.
+- 🤝 **Colaboração de produto:** alinhamento entre necessidades dos usuários, objetivos de negócio e implementação técnica.
 
 ---
 
